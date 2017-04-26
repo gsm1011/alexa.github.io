@@ -1,0 +1,11 @@
+Privacy Policy
+
+This privacy policy sets out how running stats Alexa skill uses and protects any information that you give when you use this skill.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be
+identified when using this website,then you can be assured that it will only be used in accordance with this privacy statement.
+
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you
+are happy with any changes. This policy is effective from April 1st 2017.
+
+What We May Collect
+No data is being collected in this skill.
